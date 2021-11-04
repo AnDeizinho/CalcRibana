@@ -12,11 +12,19 @@ namespace ConsumoRibana
         double qtdnalarg = 0;
         public double Metros { get; private set; }
         public double Kilos { get; private set; }
+        public double Largura { get; private set; }
+        public double Gramatura { get; private set; }
+        public int QtdCamisas { get; private set; }
+
         public Ribana(int camisas , double gram, double larg)
         {
+            QtdCamisas = camisas;
+            Largura = larg;
             qtdnalarg = larg / largVies;
             Metros = (camisas / qtdnalarg) * compVies;
             Kilos = (larg * gram) * Metros;
+            Gramatura = gram;
+
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\bin\Debug\ConsumoRibana.exe
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\bin\Debug\ConsumoRibana.pdb
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.csprojResolveAssemblyReference.cache
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.Form1.resources
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.Properties.Resources.resources
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.csproj.GenerateResource.Cache
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.exe
+C:\Users\LestTex\Desktop\andrey prog\ConsumoRibana\ConsumoRibana\obj\Debug\ConsumoRibana.pdb

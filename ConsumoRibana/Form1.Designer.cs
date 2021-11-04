@@ -84,7 +84,7 @@
             // 
             this.txtgram.Location = new System.Drawing.Point(50, 134);
             this.txtgram.Name = "txtgram";
-            this.txtgram.Size = new System.Drawing.Size(160, 20);
+            this.txtgram.Size = new System.Drawing.Size(156, 20);
             this.txtgram.TabIndex = 3;
             this.txtgram.Text = "0";
             // 
@@ -101,7 +101,7 @@
             // 
             this.txtlarg.Location = new System.Drawing.Point(50, 207);
             this.txtlarg.Name = "txtlarg";
-            this.txtlarg.Size = new System.Drawing.Size(160, 20);
+            this.txtlarg.Size = new System.Drawing.Size(156, 20);
             this.txtlarg.TabIndex = 5;
             this.txtlarg.Text = "1,40";
             // 
@@ -125,30 +125,35 @@
             // 
             // qtd
             // 
+            this.qtd.DataPropertyName = "QtdCamisas";
             this.qtd.HeaderText = "Qtd Camisas";
             this.qtd.Name = "qtd";
             this.qtd.ReadOnly = true;
             // 
             // kilos
             // 
+            this.kilos.DataPropertyName = "Kilos";
             this.kilos.HeaderText = "Total Kilos";
             this.kilos.Name = "kilos";
             this.kilos.ReadOnly = true;
             // 
             // gram
             // 
+            this.gram.DataPropertyName = "Gramatura";
             this.gram.HeaderText = "Gramatura";
             this.gram.Name = "gram";
             this.gram.ReadOnly = true;
             // 
             // larg
             // 
+            this.larg.DataPropertyName = "Largura";
             this.larg.HeaderText = "Largura";
             this.larg.Name = "larg";
             this.larg.ReadOnly = true;
             // 
             // compr
             // 
+            this.compr.DataPropertyName = "Metros";
             this.compr.HeaderText = "Comprimento";
             this.compr.Name = "compr";
             this.compr.ReadOnly = true;
